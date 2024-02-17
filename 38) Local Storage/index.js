@@ -1,7 +1,7 @@
 // Store and retreive datad from local storage
 
 // it is api provided by browser to store data inside browser
-
+// local storage is different for every domain
 
 
 // set item
