@@ -1,12 +1,17 @@
-// set item
+// Store and retreive datad from local storage
 
-localStorage.setItem("age","19")
+// it is api provided by browser to store data inside browser
+
+
+
+// set item
+localStorage.setItem("age",19)
 
 // get item
 localStorage.getItem("age")
 
 // update item
-localStorage.setItem("age",'21')
+localStorage.setItem("age",21)
 
 // remove item
 localStorage.removeItem("age")
