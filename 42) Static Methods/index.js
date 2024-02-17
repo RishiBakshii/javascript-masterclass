@@ -12,7 +12,7 @@ class Car{
     }
 }
 
-// static method
+// static method (Can never inherited to all objects)
 Car.break=function(){
     console.log('this is the break method of car');
 }
